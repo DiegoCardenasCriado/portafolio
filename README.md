@@ -3,7 +3,7 @@
 ## Info
 My solution to the first "Front-end: Portafolio" challenge of Oracle ONE + ALURA LATAM.
 
-Git Pages : [Portafolio](https://diegocardenascriado.github.io/text-encryption/) 🧐
+Git Pages : [Portafolio](https://diegocardenascriado.github.io/portafolio/) 🧐
 
 ### Screenshot
 
